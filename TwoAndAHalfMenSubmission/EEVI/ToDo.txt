@@ -1,0 +1,3 @@
+- Reset the values so that the second tag that is scanned can also skip through the elements of the Array.
+
+- 
